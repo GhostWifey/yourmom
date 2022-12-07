@@ -1,0 +1,114 @@
+body {
+    background-color: pink;
+    margin: 0px;
+}
+
+h2 {
+    color:darkmagenta;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    font-size:xlarge;
+}
+
+#YouTubeVideo {
+    align-content: center;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    color:darkmagenta;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+p {
+    color:darkmagenta;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ol {
+    color:darkmagenta;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    color:darkmagenta;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: darkmagenta;
+    font-family:monospace;
+    text-align:center;
+    font-size: large;
+}
+
+footer {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    width:100%;
+    position: static;
+    display:block;
+    left:0px;
+    bottom:0px;
+    font-size: large;
+}
+
+nav {
+    text-align: right;
+    background-color:darkmagenta;
+    overflow:hidden;
+    width: 100%;
+    position:static;
+    top:0px;
+    margin:auto;
+    font-size: large;
+}
+
+nav a {
+    color: pink !important;
+    display: block;
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: white;
+}
+
+#Meme {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:larger;
+    text-align:center;
+}
+
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.center {
+    margin: auto;
+    border: solid white 5px;
+    overflow: auto;
+    border-radius: 10px;
+}
+
+.YourWorstNightmare {
+    text-align:center;
+}
+
+.centering {
+    display: inline-block;
+    text-align: left;
+}
+
+.tableauPlaceholder {
+    align-content: center;
+    display: block;
+    margin: auto;
+}
